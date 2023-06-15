@@ -1,2 +1,2 @@
 # crud-estudiantes
-Nube-CRUD de estudiantes con Nodejs + S3 para el guardado de imagenes
+Nube-CRUD con Nodejs + mysql + S3 para el guardado de imagenes
